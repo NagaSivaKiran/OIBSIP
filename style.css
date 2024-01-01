@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+    height: 100%;
+    width: 100%;
+    background: url('images/bg.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #0911b6;
+}
+
+/* Input and Select Styles */
+input[type="text"],
+select {
+    display: block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 2em;
+    position: relative;
+    color: black;
+    font-family: sans-serif;
+    border: 1px solid #000000; /* Adding border */
+    border-radius: 4px; /* Adding border radius */
+}
+
+/* Placeholder Styles */
+::-webkit-input-placeholder {
+    color: #ccd863;
+}
+
+/* Button Styles */
+button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+#convert {
+    background-color: #af8a10;
+}
+
+#convert:hover {
+    background-color: #16cade;
+}
+
+#clear {
+    background-color: #0bdcc7;
+}
+
+#clear:hover {
+    background-color: #066570;
+}
