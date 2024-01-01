@@ -18,8 +18,7 @@ JavaScript Logic: The script.js file contains the logic and functionality to per
 Styling Elements: The style.css file is responsible for styling the website elements, ensuring a visually appealing and user-friendly interface.
 How to Use
 Clone this repository to your local machine:
-
-https://github.com/MTank76/oibsip_taskno.3.git
+https://github.com/NagaSivaKiran/OIBSIP
 Open the index.html file in your preferred web browser to access the Temperature Converter website.
 
 Contributing
